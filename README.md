@@ -1,16 +1,14 @@
-## Hi there 👋
+### ☯️Boas vindas ao meu perfil rapaziada do bem☯️😵‍💫
 
-<!--
-**carlinhoswk/carlinhoswk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Carlos Gabriel
 
-Here are some ideas to get you started:
+- Estudante de tecnologia do 1º
+- Ultilizo esse espaço para o compartilhamento de projetos e minha organização
+- Estou me desenvolvendo na linguagem JavaScript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Você pode entrar em contato comigo 📪 
+
+00001141761919sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/HwcWT4vjdQEAAAAC/neymar-jr-neymar.gif)
